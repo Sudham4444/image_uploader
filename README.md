@@ -60,26 +60,26 @@ The **Image Uploader** is a Django-based web application that allows users to up
 
    Open your web browser and go to http://127.0.0.1:8000/ to access the application.
 
-Configuration
-`Database: This project uses SQLite by default. You can configure a different database in settings.py if needed.
+## Configuration
+`Database:` This project uses SQLite by default. You can configure a different database in settings.py if needed.
 
-`Media Files: Ensure that the MEDIA_URL and MEDIA_ROOT are correctly set in settings.py to handle file uploads.
+`Media Files:` Ensure that the MEDIA_URL and MEDIA_ROOT are correctly set in settings.py to handle file uploads.
 
-Usage
+## Usage
 
-`Upload Images: Go to the main page to upload an image.
+`Upload Images:` Go to the main page to upload an image.
 
-`View Images: After uploading, images will be displayed on the page.
+`View Images:` After uploading, images will be displayed on the page.
 
- Deployment
+ ## Deployment
  
 To deploy this application, follow the platform-specific deployment instructions. Ensure that you have configured media file storage correctly and set up environment variables as needed.
 
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 For any questions or issues, please contact sudhamsingh2412@gmail.com.
