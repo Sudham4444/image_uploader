@@ -2,13 +2,13 @@
 
 ## Overview
 
-The *Image Uploader* is a Django-based web application that allows users to upload images. This project provides a simple and intuitive interface for uploading and managing images.
+The **Image Uploader** is a Django-based web application that allows users to upload images. This project provides a simple and intuitive interface for uploading and managing images.
 
 ## Features
 
-- *Upload Images*: Users can upload images through a web form.
-- *View Uploaded Images*: Uploaded images can be viewed on the application.
-- *Basic Error Handling*: Handles common errors related to file uploads.
+- **Upload Images**: Users can upload images through a web form.
+- **View Uploaded Images**: Uploaded images can be viewed on the application.
+- **Basic Error Handling**: Handles common errors related to file uploads.
 
 ## Installation
 
@@ -20,7 +20,7 @@ The *Image Uploader* is a Django-based web application that allows users to uplo
 
 ### Steps to Set Up
 
-1. *Clone the Repository*
+1. **Clone the Repository**
 
      ```bash
      git clone https://github.com/PrathameshPC77/imageuploader.git
@@ -61,12 +61,18 @@ The *Image Uploader* is a Django-based web application that allows users to uplo
    Open your web browser and go to http://127.0.0.1:8000/ to access the application.
 
 Configuration
-Database: This project uses SQLite by default. You can configure a different database in settings.py if needed.
-Media Files: Ensure that the MEDIA_URL and MEDIA_ROOT are correctly set in settings.py to handle file uploads.
+`Database: This project uses SQLite by default. You can configure a different database in settings.py if needed.
+
+`Media Files: Ensure that the MEDIA_URL and MEDIA_ROOT are correctly set in settings.py to handle file uploads.
+
 Usage
-Upload Images: Go to the main page to upload an image.
-View Images: After uploading, images will be displayed on the page.
-Deployment
+
+`Upload Images: Go to the main page to upload an image.
+
+`View Images: After uploading, images will be displayed on the page.
+
+ Deployment
+ 
 To deploy this application, follow the platform-specific deployment instructions. Ensure that you have configured media file storage correctly and set up environment variables as needed.
 
 Contributing
