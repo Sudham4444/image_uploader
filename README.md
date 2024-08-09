@@ -23,7 +23,7 @@ The **Image Uploader** is a Django-based web application that allows users to up
 1. **Clone the Repository**
 
      ```bash
-     git clone https://github.com/PrathameshPC77/imageuploader.git
+     git clone https://github.com/Sudham4444/image_uploader.git
 
 2. Navigate to the Project Directory
 
